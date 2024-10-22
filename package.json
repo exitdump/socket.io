@@ -1,0 +1,31 @@
+{
+  "name": "simple-chat",
+  "version": "1.0.0",
+  "description": "simple chat web with socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exitdump/socket.io.git"
+  },
+  "keywords": [
+    "socket.io",
+    "chat",
+    "realtime",
+    "communication",
+    "bidirectional",
+    "communication"
+  ],
+  "author": "Jahid Hasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exitdump/socket.io/issues"
+  },
+  "homepage": "https://github.com/exitdump/socket.io#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "socket.io": "^4.8.0"
+  }
+}
